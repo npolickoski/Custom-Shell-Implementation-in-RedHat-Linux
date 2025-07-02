@@ -8,7 +8,8 @@
 - Process Control/Communication
   
 **Functionality:**
-- 
+- Capable of executing user commands, handling input/output redirection, and processing single-pipe commands.Made to manage terminal commands using the “|” operator.
+
   
 **External Packages:**
 - "unistd" Library (standard x86 C++ operating system library)
