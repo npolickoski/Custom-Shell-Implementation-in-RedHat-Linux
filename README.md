@@ -17,6 +17,6 @@
 
 
 ## Images
-
+![terminal](./utils/images/ROSOS_terminal.png)
 
 Ex.1 - Terminal Screen
