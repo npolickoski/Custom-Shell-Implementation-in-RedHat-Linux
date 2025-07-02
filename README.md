@@ -17,6 +17,6 @@
 
 
 ## Images
-![terminal](./utils/images/RATOS_terminal.png)
+
 
 Ex.1 - Terminal Screen
