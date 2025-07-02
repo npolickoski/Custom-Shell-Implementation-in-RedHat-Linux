@@ -1,3 +1,22 @@
 # Redhat-Linux-Kernal-Shell-Project
-- Developed a custom Red Hat Linux shell in C++ capable of executing user commands, handling input/output redirection, and processing single-pipe commands.
-- Implemented forked processes and pipe functionality to manage terminal commands using the “|” operator, enabling robust process control and inter-process communication.
+**Goal:** 
+- design custom Red Hat Linux shell capable of executing user commands
+  
+**Concepts Used:** 
+- Forking
+- Data Pipes
+- Process Control/Communication
+  
+**Functionality:**
+- 
+  
+**External Packages:**
+- "unistd" Library (standard x86 C++ operating system library)
+
+
+
+
+## Images
+![Ex.1 - Played Tone](./utils/images/ex1_tone.png)
+
+Ex.1a - Played Tone
