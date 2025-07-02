@@ -17,6 +17,6 @@
 
 
 ## Images
-![Ex.1 - Played Tone](./utils/images/ex1_tone.png)
+![terminal](./utils/images/RATOS_terminal.png)
 
-Ex.1a - Played Tone
+Ex.1 - Terminal Screen
